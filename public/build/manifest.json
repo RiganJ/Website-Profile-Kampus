@@ -1,0 +1,146 @@
+{
+  "resources/css/admin.css": {
+    "file": "assets/admin-Di87UQJu.css",
+    "src": "resources/css/admin.css",
+    "isEntry": true,
+    "name": "admin",
+    "names": [
+      "admin.css"
+    ]
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-BIuxvqDJ.css",
+    "src": "resources/css/app.css",
+    "isEntry": true,
+    "name": "app",
+    "names": [
+      "app.css"
+    ]
+  },
+  "resources/css/bidan.css": {
+    "file": "assets/bidan-C5m4CMaX.css",
+    "src": "resources/css/bidan.css",
+    "isEntry": true,
+    "name": "bidan",
+    "names": [
+      "bidan.css"
+    ]
+  },
+  "resources/css/bisdig.css": {
+    "file": "assets/bisdig-CRrBmqvg.css",
+    "src": "resources/css/bisdig.css",
+    "isEntry": true,
+    "name": "bisdig",
+    "names": [
+      "bisdig.css"
+    ]
+  },
+  "resources/css/dkv.css": {
+    "file": "assets/dkv-Buyx3XKM.css",
+    "src": "resources/css/dkv.css",
+    "isEntry": true,
+    "name": "dkv",
+    "names": [
+      "dkv.css"
+    ]
+  },
+  "resources/css/farmasi.css": {
+    "file": "assets/farmasi-DqktuVws.css",
+    "src": "resources/css/farmasi.css",
+    "isEntry": true,
+    "name": "farmasi",
+    "names": [
+      "farmasi.css"
+    ]
+  },
+  "resources/css/fisiotrapi.css": {
+    "file": "assets/fisiotrapi-DZO_M_Ij.css",
+    "src": "resources/css/fisiotrapi.css",
+    "isEntry": true,
+    "name": "fisiotrapi",
+    "names": [
+      "fisiotrapi.css"
+    ]
+  },
+  "resources/css/inspired-campus.css": {
+    "file": "assets/inspired-campus-R7xw6YPF.css",
+    "src": "resources/css/inspired-campus.css",
+    "isEntry": true,
+    "name": "inspired-campus",
+    "names": [
+      "inspired-campus.css"
+    ]
+  },
+  "resources/css/kwu.css": {
+    "file": "assets/kwu-D1XxRsrr.css",
+    "src": "resources/css/kwu.css",
+    "isEntry": true,
+    "name": "kwu",
+    "names": [
+      "kwu.css"
+    ]
+  },
+  "resources/css/ners.css": {
+    "file": "assets/ners-Bc3rZZBa.css",
+    "src": "resources/css/ners.css",
+    "isEntry": true,
+    "name": "ners",
+    "names": [
+      "ners.css"
+    ]
+  },
+  "resources/css/pariwisata.css": {
+    "file": "assets/pariwisata-D9AZL11J.css",
+    "src": "resources/css/pariwisata.css",
+    "isEntry": true,
+    "name": "pariwisata",
+    "names": [
+      "pariwisata.css"
+    ]
+  },
+  "resources/css/prodi.css": {
+    "file": "assets/prodi-Cjd_2Ec7.css",
+    "src": "resources/css/prodi.css",
+    "isEntry": true,
+    "name": "prodi",
+    "names": [
+      "prodi.css"
+    ]
+  },
+  "resources/css/psikologi.css": {
+    "file": "assets/psikologi-U7FHBQ33.css",
+    "src": "resources/css/psikologi.css",
+    "isEntry": true,
+    "name": "psikologi",
+    "names": [
+      "psikologi.css"
+    ]
+  },
+  "resources/css/style.css": {
+    "file": "assets/style-DKwAkaEc.css",
+    "src": "resources/css/style.css",
+    "isEntry": true,
+    "name": "style",
+    "names": [
+      "style.css"
+    ]
+  },
+  "resources/js/admin.js": {
+    "file": "assets/admin-DZmy7OfF.js",
+    "name": "admin",
+    "src": "resources/js/admin.js",
+    "isEntry": true
+  },
+  "resources/js/app-biaya.js": {
+    "file": "assets/app-biaya-yNJaLqvf.js",
+    "name": "app-biaya",
+    "src": "resources/js/app-biaya.js",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-1W6dhDaB.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  }
+}
