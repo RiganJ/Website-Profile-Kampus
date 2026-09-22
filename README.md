@@ -231,23 +231,7 @@ composer run dev
 | Format kode PHP | `vendor/bin/pint` |
 | Membuat symbolic link storage | `php artisan storage:link` |
 
-## Konfigurasi Hosting
-
-Struktur proyek telah mengikuti pola Laravel standar:
-
-```text
-DocumentRoot → project/public
-```
-
 **Jangan** mengarahkan document root ke root repository karena folder seperti `app`, `config`, `database`, `resources`, `routes`, dan `vendor` tidak boleh terekspos langsung.
 
-Checklist deployment:
 
-1. Arahkan document root web server ke `public/`.
-2. Pastikan `public/index.php` dapat memuat `../vendor/autoload.php`.
-3. Pastikan rewrite Apache aktif agar request non-file diteruskan ke `index.php`.
-4. Jalankan `npm run build` sebelum rilis asset frontend.
-5. Siapkan environment production melalui secret manager atau konfigurasi server.
-6. Jalankan migration secara terkontrol setelah backup database.
-7. Pastikan permission `storage/` dan `bootstrap/cache/` sesuai kebutuhan Laravel.
-8. Verifikasi halaman publik, login admin, hak akses, upload media, kontak, dan live chat.
+
